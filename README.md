@@ -1,4 +1,4 @@
-### Olá!Pessoal👋
+### Olá! Pessoal👋
 
 Eu sou Gabriel Andrade, Desenvolvedor Front-End e Estudante de Ciência da Computação a Procura de Estágio:
 
