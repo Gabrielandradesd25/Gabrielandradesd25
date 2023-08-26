@@ -2,8 +2,11 @@ Olá Pessoal!!
 
 Eu sou Gabriel Andrade, Desenvolvedor Front-End e Estudante de Ciência da Computação a Procura de Estágio:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👋 Olá, um prazer ter você aqui, um desenvolvedor front-end apaixonado por
+     tecnologia e pela busca por conhecimento, além de amante de esportes, livros, animais, jogos e programação, estou sempre a procura de
+     experiências novas que me tornem um humano melhor e mais capacitado.
+- 📖 Atualmente estudando java na faculdade.
+- 👨🏾‍💻 Estudando React por conta propria e sempre buscando novos conhecimentos. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
