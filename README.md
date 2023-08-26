@@ -3,8 +3,8 @@ Olá Pessoal!!
 Eu sou Gabriel Andrade, Desenvolvedor Front-End e Estudante de Ciência da Computação a Procura de Estágio:
 
 - 👋 Olá, um prazer ter você aqui, um desenvolvedor front-end apaixonado por
-     tecnologia e pela busca por conhecimento, além de amante de esportes, livros, animais, jogos e programação, estou sempre a procura de
-     experiências novas que me tornem um humano melhor e mais capacitado.
+       tecnologia e pela busca por conhecimento, além de amante de esportes, livros, animais, jogos e programação, estou sempre a procura de
+       experiências novas que me tornem um humano melhor e mais capacitado.
 - 📖 Atualmente estudando java na faculdade.
 - 👨🏾‍💻 Estudando React por conta propria e sempre buscando novos conhecimentos. 
 
